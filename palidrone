@@ -1,0 +1,7 @@
+pal = "pop"
+lap=pal[::-1]
+print (lap)
+if lap==pal:
+  print("The string is a paladrone")
+else:
+  print ("The string is not a palidrone")
